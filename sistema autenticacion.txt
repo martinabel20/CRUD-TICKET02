@@ -1,0 +1,9 @@
+sistema de autenticacion
+
+administradores:
+Gerentes
+administradores
+
+Clientes:
+Compradores
+trabajadores
